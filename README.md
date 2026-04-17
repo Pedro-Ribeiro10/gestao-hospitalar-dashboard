@@ -12,6 +12,7 @@ Projeto focado em inteligência operacional para o setor hospitalar. O objetivo 
 
 ## 🛠️ Ferramentas Utilizadas
 **Power BI:** Criação de hierarquias, modelagem de dados, medidas DAX e navegação avançada (Drill-down).
+
 **Python (Pandas & Numpy):** Utilizado para o tratamento, limpeza e padronização da base de dados bruta (Excel), garantindo a integridade das informações de leitos e pacientes.
 
 ## 💡 Destaque Técnico
