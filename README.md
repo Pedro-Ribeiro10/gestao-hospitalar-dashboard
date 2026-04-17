@@ -17,3 +17,14 @@ Projeto focado em inteligência operacional para o setor hospitalar. O objetivo 
 
 ## 💡 Destaque Técnico
 A funcionalidade de Drill-down desenvolvida na Página 3 permite que o gestor tenha uma visão "Big Picture" e, com poucos cliques, chegue ao status de um leito individual, agilizando a tomada de decisão em situações de urgência.
+
+## 🖼️ Visualização do Dashboard
+
+### Dashboard 1
+![Página 1 do Dashboard](./Dashboard%20Hospital%20Vida%20Plenna%20-%20Página%201%20.png)
+
+### Dashboard 2
+![Página 2 do Dashboard](./Dashboard%20Hospital%20Vida%20Plenna%20-%20Página%202%20.png)
+
+### Mapeamento de leitos
+![Página 2 do Dashboard](./Mapeamento%20de%20Leitos.png)
