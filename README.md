@@ -28,3 +28,4 @@ A funcionalidade de Drill-down desenvolvida na Página 3 permite que o gestor te
 
 ### Mapeamento de leitos
 ![Dashboard Mapeamento de Leitos](./Mapeamento%20de%20Leitos.png)
+
