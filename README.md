@@ -12,6 +12,7 @@ Projeto focado em inteligência operacional para o setor hospitalar. O objetivo 
 
 ## 🛠️ Ferramentas Utilizadas
 **Power BI:** Criação de hierarquias, modelagem de dados, medidas DAX e navegação avançada (Drill-down).
+**Python (Pandas & Numpy):** Utilizado para o tratamento, limpeza e padronização da base de dados bruta (Excel), garantindo a integridade das informações de leitos e pacientes.
 
 ## 💡 Destaque Técnico
 A funcionalidade de Drill-down desenvolvida na Página 3 permite que o gestor tenha uma visão "Big Picture" e, com poucos cliques, chegue ao status de um leito individual, agilizando a tomada de decisão em situações de urgência.
