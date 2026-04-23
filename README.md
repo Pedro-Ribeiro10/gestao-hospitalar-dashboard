@@ -27,5 +27,6 @@ A funcionalidade de Drill-down desenvolvida na Página 3 permite que o gestor te
 ![Página 2 do Dashboard](./Dashboard%20Hospital%20Vida%20Plenna%20-%20Página%202%20.png)
 
 ### Mapeamento de leitos
-![Dashboard Mapeamento de Leitos](./Mapeamento%20de%20Leitos.png)
+![Dashboard 3](Mapeamento%20de%20Leitos%20.png)
+
 
